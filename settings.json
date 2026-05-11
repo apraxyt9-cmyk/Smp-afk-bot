@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OneblockSmpbd.aternos.me",
-    "port": 22375,
+    "ip": "BDOPENPVP.aternos.me",
+    "port": 21274,
     "version": "1.20.1",
     "try-creative": false
   },
