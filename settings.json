@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "192.168.0.101",
-    "port": 25565,
+    "ip": "OneblockSmpbd.aternos.me",
+    "port": 22375,
     "version": "1.20.1",
     "try-creative": false
   },
