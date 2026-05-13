@@ -1,13 +1,13 @@
 {
-  "name": "AFK BOT",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "BOT-by-aparx,
+    "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "OneblockSmpbd.aternos.me",
-    "port": 22375,
+    "ip": "solocloud.host",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "I'M ACTIVE :)",
-        "MY BOSS SHANTO,RIFAT,YASIN"
+        "Subscribe to SoloPlayz!",
+        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
       ]
     },
     "chat-log": true,
