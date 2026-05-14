@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mcnetwork.enderman.cloud",
-    "port": 50000,
+    "ip": "rabbit.fi.freemcserver.net",
+    "port": 41816,
     "version": "1.20.1",
     "try-creative": false
   },
