@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "gopgop",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "OneblockSmpbd.aternos.me",
-    "port": 22375,
+    "ip": "mcnetwork.enderman.cloud",
+    "port": 50000,
     "version": "1.20.1",
     "try-creative": false
   },
