@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rabbit.fi.freemcserver.net",
-    "port": 41816,
+    "ip": "luckyblockbyshadows.aternos.me",
+    "port": 15627,
     "version": "1.20.1",
     "try-creative": false
   },
