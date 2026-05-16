@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "gopgop",
+    "username": "DON'T KILL",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "luckyblockbyshadows.aternos.me",
-    "port": 15627,
+    "ip": "OneblockSmpbd.aternos.me",
+    "port": 22375,
     "version": "1.20.1",
     "try-creative": false
   },
