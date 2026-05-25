@@ -7,7 +7,6 @@
   },
   "server": {
     "ip": "theshadowsbySN.play.hosting",
-    "port": 24906,
     "version": "1.20.1",
     "try-creative": false
   },
